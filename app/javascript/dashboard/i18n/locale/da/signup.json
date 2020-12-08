@@ -1,0 +1,32 @@
+{
+  "REGISTER": {
+    "TRY_WOOT": "Registrer en konto",
+    "TITLE": "Registrer",
+    "TERMS_ACCEPT": "Ved at tilmelde dig, accepterer du vores <a href=\"https://www.chatwoot.com/terms\">T & C</a> og <a href=\"https://www.chatwoot.com/privacy-policy\">Privatlivspolitik</a>",
+    "ACCOUNT_NAME": {
+      "LABEL": "Kontonavn",
+      "PLACEHOLDER": "Wayne Enterprises",
+      "ERROR": "Kontonavn er for kort"
+    },
+    "EMAIL": {
+      "LABEL": "E-mail",
+      "PLACEHOLDER": "bruce@wayne.enterprises",
+      "ERROR": "E-mail er ugyldig"
+    },
+    "PASSWORD": {
+      "LABEL": "Adgangskode",
+      "PLACEHOLDER": "Adgangskode",
+      "ERROR": "Adgangskoden er for kort"
+    },
+    "CONFIRM_PASSWORD": {
+      "LABEL": "Bekræft Adgangskode",
+      "PLACEHOLDER": "Bekræft Adgangskode",
+      "ERROR": "Adgangskode stemmer ikke overens"
+    },
+    "API": {
+      "SUCCESS_MESSAGE": "Registrering Succesfuld",
+      "ERROR_MESSAGE": "Kunne ikke oprette forbindelse til Woot Server, Prøv igen senere"
+    },
+    "SUBMIT": "Send"
+  }
+}

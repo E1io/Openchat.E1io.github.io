@@ -1,0 +1,114 @@
+{
+  "CONTACT_PANEL": {
+    "NOT_AVAILABLE": "Not Available",
+    "EMAIL_ADDRESS": "Adres e-mail",
+    "PHONE_NUMBER": "Numer telefonu",
+    "COPY_SUCCESSFUL": "Pomyślnie skopiowano do schowka",
+    "COMPANY": "Firma",
+    "LOCATION": "Lokalizacja",
+    "CONVERSATION_TITLE": "Szczegóły konwersacji",
+    "BROWSER": "Przeglądarki",
+    "OS": "System operacyjny",
+    "INITIATED_FROM": "Zainicjowano z",
+    "INITIATED_AT": "Zainicjowano w",
+    "CONVERSATIONS": {
+      "NO_RECORDS_FOUND": "Brak poprzednich rozmów powiązanych z tym kontaktem.",
+      "TITLE": "Poprzednie rozmowy"
+    },
+    "CUSTOM_ATTRIBUTES": {
+      "TITLE": "Niestandardowe atrybuty"
+    },
+    "LABELS": {
+      "TITLE": "Etykiety konwersacji",
+      "MODAL": {
+        "TITLE": "Etykiety dla",
+        "ACTIVE_LABELS": "Etykiety dodane do rozmowy",
+        "INACTIVE_LABELS": "Etykiety dostępne na koncie",
+        "REMOVE": "Kliknij na ikonę X, aby usunąć etykietę",
+        "ADD": "Kliknij na ikonę +, aby dodać etykietę",
+        "UPDATE_BUTTON": "Zaktualizuj etykiety",
+        "UPDATE_ERROR": "Nie udało się zaktualizować etykiet, spróbuj ponownie."
+      },
+      "NO_LABELS_TO_ADD": "Nie ma więcej etykiet zdefiniowanych na koncie.",
+      "NO_AVAILABLE_LABELS": "There are no labels added to this conversation."
+    },
+    "MUTE_CONTACT": "Wycisz rozmowę",
+    "UNMUTE_CONTACT": "Wyłącz wyciszenie rozmowy",
+    "MUTED_SUCCESS": "Ta rozmowa jest wyciszona na 6 godzin",
+    "UNMUTED_SUCCESS": "Ta rozmowa nie jest wyciszona",
+    "SEND_TRANSCRIPT": "Wyślij transkrypcję",
+    "EDIT_LABEL": "Edytuj"
+  },
+  "EDIT_CONTACT": {
+    "BUTTON_LABEL": "Edytuj Kontakt",
+    "TITLE": "Edytuj kontakt",
+    "DESC": "Edytuj dane kontaktowe",
+    "FORM": {
+      "SUBMIT": "Prześlij",
+      "CANCEL": "Anuluj",
+      "AVATAR": {
+        "LABEL": "Contact Avatar"
+      },
+      "NAME": {
+        "PLACEHOLDER": "Enter the full name of the contact",
+        "LABEL": "Full Name"
+      },
+      "BIO": {
+        "PLACEHOLDER": "Enter the bio of the contact",
+        "LABEL": "Bio"
+      },
+      "EMAIL_ADDRESS": {
+        "PLACEHOLDER": "Enter the email address of the contact",
+        "LABEL": "Adres e-mail"
+      },
+      "PHONE_NUMBER": {
+        "PLACEHOLDER": "Enter the phone number of the contact",
+        "LABEL": "Phone Number"
+      },
+      "LOCATION": {
+        "PLACEHOLDER": "Enter the location of the contact",
+        "LABEL": "Lokalizacja"
+      },
+      "COMPANY_NAME": {
+        "PLACEHOLDER": "Enter the company name",
+        "LABEL": "Company Name"
+      },
+      "SOCIAL_PROFILES": {
+        "FACEBOOK": {
+          "PLACEHOLDER": "Enter the Facebook username",
+          "LABEL": "Facebook"
+        },
+        "TWITTER": {
+          "PLACEHOLDER": "Enter the Twitter username",
+          "LABEL": "Twitter"
+        },
+        "LINKEDIN": {
+          "PLACEHOLDER": "Wprowadź nazwę użytkownika LinkedIn",
+          "LABEL": "LinkedIn"
+        },
+        "GITHUB": {
+          "PLACEHOLDER": "Wprowadź nazwę użytkownika Github",
+          "LABEL": "Github"
+        }
+      }
+    },
+    "SUCCESS_MESSAGE": "Updated contact successfully",
+    "CONTACT_ALREADY_EXIST": "This email address is in use for another contact.",
+    "ERROR_MESSAGE": "There was an error updating the contact, please try again"
+  },
+  "CONTACTS_PAGE": {
+    "HEADER": "Contacts",
+    "SEARCH_BUTTON": "Search",
+    "SEARCH_INPUT_PLACEHOLDER": "Search for contacts",
+    "LIST": {
+      "LOADING_MESSAGE": "Loading contacts...",
+      "404": "No contacts matches your search 🔍",
+      "TABLE_HEADER": [
+        "Nazwisko",
+        "Phone Number",
+        "Rozmowy",
+        "Last Contacted"
+      ]
+    }
+  }
+}

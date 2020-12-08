@@ -1,0 +1,114 @@
+{
+  "CONTACT_PANEL": {
+    "NOT_AVAILABLE": "Indisponível",
+    "EMAIL_ADDRESS": "Endereço de e-mail",
+    "PHONE_NUMBER": "Número de telefone",
+    "COPY_SUCCESSFUL": "Copiado para área de transferência com sucesso",
+    "COMPANY": "Empresa",
+    "LOCATION": "Localização",
+    "CONVERSATION_TITLE": "Detalhes da conversa",
+    "BROWSER": "Navegador",
+    "OS": "Sistema Operacional",
+    "INITIATED_FROM": "A partir de",
+    "INITIATED_AT": "Iniciado em",
+    "CONVERSATIONS": {
+      "NO_RECORDS_FOUND": "Não há conversas anteriores associadas a este contato.",
+      "TITLE": "Conversas anteriores"
+    },
+    "CUSTOM_ATTRIBUTES": {
+      "TITLE": "Atributos personalizados"
+    },
+    "LABELS": {
+      "TITLE": "Marcador da conversa",
+      "MODAL": {
+        "TITLE": "Marcadores para",
+        "ACTIVE_LABELS": "Marcadores adicionados à conversa",
+        "INACTIVE_LABELS": "Marcadores disponíveis na conta",
+        "REMOVE": "Clique no ícone X para remover o marcador",
+        "ADD": "Clique no ícone + para adicionar o marcador",
+        "UPDATE_BUTTON": "Atualizar marcadores",
+        "UPDATE_ERROR": "Não foi possível atualizar os marcadores, tente novamente."
+      },
+      "NO_LABELS_TO_ADD": "Não há mais rótulos definidos na conta.",
+      "NO_AVAILABLE_LABELS": "Não há rótulos adicionados a esta conversa."
+    },
+    "MUTE_CONTACT": "Silenciar a conversa",
+    "UNMUTE_CONTACT": "Reativar conversa",
+    "MUTED_SUCCESS": "Esta conversa está silenciada por 6 horas",
+    "UNMUTED_SUCCESS": "Essa conversa está reativada",
+    "SEND_TRANSCRIPT": "Enviar Transcrição",
+    "EDIT_LABEL": "Alterar"
+  },
+  "EDIT_CONTACT": {
+    "BUTTON_LABEL": "Modificar Contato",
+    "TITLE": "Modificar contato",
+    "DESC": "Modificar detalhes do contato",
+    "FORM": {
+      "SUBMIT": "Enviar",
+      "CANCEL": "Cancelar",
+      "AVATAR": {
+        "LABEL": "Avatar do Contato"
+      },
+      "NAME": {
+        "PLACEHOLDER": "Insira o nome completo do contato",
+        "LABEL": "Nome Completo"
+      },
+      "BIO": {
+        "PLACEHOLDER": "Insira a descrição do contato",
+        "LABEL": "Descrição"
+      },
+      "EMAIL_ADDRESS": {
+        "PLACEHOLDER": "Insira o endereço de e-mail do contato",
+        "LABEL": "Endereço de e-mail"
+      },
+      "PHONE_NUMBER": {
+        "PLACEHOLDER": "Adicione o número de telefone do contato",
+        "LABEL": "Número de Telefone"
+      },
+      "LOCATION": {
+        "PLACEHOLDER": "Enter the location of the contact",
+        "LABEL": "Localização"
+      },
+      "COMPANY_NAME": {
+        "PLACEHOLDER": "Enter the company name",
+        "LABEL": "Company Name"
+      },
+      "SOCIAL_PROFILES": {
+        "FACEBOOK": {
+          "PLACEHOLDER": "Enter the Facebook username",
+          "LABEL": "Facebook"
+        },
+        "TWITTER": {
+          "PLACEHOLDER": "Enter the Twitter username",
+          "LABEL": "Twitter"
+        },
+        "LINKEDIN": {
+          "PLACEHOLDER": "Enter the LinkedIn username",
+          "LABEL": "LinkedIn"
+        },
+        "GITHUB": {
+          "PLACEHOLDER": "Enter the Github username",
+          "LABEL": "Github"
+        }
+      }
+    },
+    "SUCCESS_MESSAGE": "Updated contact successfully",
+    "CONTACT_ALREADY_EXIST": "This email address is in use for another contact.",
+    "ERROR_MESSAGE": "There was an error updating the contact, please try again"
+  },
+  "CONTACTS_PAGE": {
+    "HEADER": "Contacts",
+    "SEARCH_BUTTON": "Search",
+    "SEARCH_INPUT_PLACEHOLDER": "Search for contacts",
+    "LIST": {
+      "LOADING_MESSAGE": "Loading contacts...",
+      "404": "No contacts matches your search 🔍",
+      "TABLE_HEADER": [
+        "Nome",
+        "Número de Telefone",
+        "Conversas",
+        "Last Contacted"
+      ]
+    }
+  }
+}

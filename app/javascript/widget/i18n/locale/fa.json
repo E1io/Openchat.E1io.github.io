@@ -1,0 +1,31 @@
+{
+  "COMPONENTS": {
+    "FILE_BUBBLE": {
+      "DOWNLOAD": "دانلود",
+      "UPLOADING": "در حال آپلود..."
+    },
+    "FORM_BUBBLE": {
+      "SUBMIT": "ثبت"
+    }
+  },
+  "TEAM_AVAILABILITY": {
+    "ONLINE": "ما آنلاین هستیم",
+    "OFFLINE": "ما آفلاین هستیم"
+  },
+  "REPLY_TIME": {
+    "IN_A_FEW_MINUTES": "Typically replies in a few minutes",
+    "IN_A_FEW_HOURS": "Typically replies in a few hours",
+    "IN_A_DAY": "Typically replies in a day"
+  },
+  "START_CONVERSATION": "شروع گفتگو",
+  "UNREAD_VIEW": {
+    "VIEW_MESSAGES_BUTTON": "مشاهده پیام‌های جدید",
+    "CLOSE_MESSAGES_BUTTON": "بستن"
+  },
+  "BUBBLE": {
+    "LABEL": "با ما گفتگو کنید"
+  },
+  "POWERED_BY": "قدرت یافته از چت ووت",
+  "EMAIL_PLACEHOLDER": "لطفا ایمیل خود را وارد کنید",
+  "CHAT_PLACEHOLDER": "پیام خود را وارد کنید"
+}

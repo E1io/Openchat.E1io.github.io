@@ -1,0 +1,47 @@
+{
+  "GENERAL_SETTINGS": {
+    "TITLE": "Kontoindstillinger",
+    "SUBMIT": "Opdater indstillinger",
+    "BACK": "Tilbage",
+    "UPDATE": {
+      "ERROR": "Kunne ikke opdatere indstillinger, prøv igen!",
+      "SUCCESS": "Kontoindstillinger blev opdateret"
+    },
+    "FORM": {
+      "ERROR": "Ret venligst formularfejl",
+      "GENERAL_SECTION": {
+        "TITLE": "Generelle indstillinger",
+        "NOTE": ""
+      },
+      "NAME": {
+        "LABEL": "Kontonavn",
+        "PLACEHOLDER": "Dit kontonavn",
+        "ERROR": "Angiv et gyldigt kontonavn"
+      },
+      "LANGUAGE": {
+        "LABEL": "Websted sprog (Beta)",
+        "PLACEHOLDER": "Dit kontonavn",
+        "ERROR": ""
+      },
+      "DOMAIN": {
+        "LABEL": "Indkommende E-Mail Domæne",
+        "PLACEHOLDER": "Domænet, hvor du vil modtage e-mails",
+        "ERROR": ""
+      },
+      "SUPPORT_EMAIL": {
+        "LABEL": "Support E-Mail",
+        "PLACEHOLDER": "Din virksomheds support e-mail",
+        "ERROR": ""
+      },
+      "AUTO_RESOLVE_DURATION": {
+        "LABEL": "Antal dage efter en ticket skal løses automatisk, hvis der ikke er nogen aktivitet",
+        "PLACEHOLDER": "30",
+        "ERROR": "Angiv en gyldig varighed for automatisk løsning af sag (minimum 1 dag)"
+      },
+      "FEATURES": {
+        "INBOUND_EMAIL_ENABLED": "Samtale kontinuitet med e-mails er aktiveret for din konto.",
+        "CUSTOM_EMAIL_DOMAIN_ENABLED": "Du kan modtage e-mails på dit brugerdefinerede domæne nu."
+      }
+    }
+  }
+}

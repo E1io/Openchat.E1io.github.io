@@ -1,0 +1,43 @@
+{
+  "REPORT": {
+    "HEADER": "Raporlar",
+    "LOADING_CHART": "Grafik verileri yükleniyor ...",
+    "NO_ENOUGH_DATA": "Rapor oluşturmak için yeterli veri yok, Lütfen daha sonra tekrar deneyin.",
+    "METRICS": {
+      "CONVERSATIONS": {
+        "NAME": "Konuşmalar",
+        "DESC": "( Toplam )\n"
+      },
+      "INCOMING_MESSAGES": {
+        "NAME": "Gelen Mesajlar",
+        "DESC": "( Toplam )\n"
+      },
+      "OUTGOING_MESSAGES": {
+        "NAME": "Giden Mesajlar",
+        "DESC": "( Toplam )\n"
+      },
+      "FIRST_RESPONSE_TIME": {
+        "NAME": "İlk yanıt süresi",
+        "DESC": "(Ort.)"
+      },
+      "RESOLUTION_TIME": {
+        "NAME": "Çözüm Süresi",
+        "DESC": "(Ort.)"
+      },
+      "RESOLUTION_COUNT": {
+        "NAME": "Çözünürlük Sayısı",
+        "DESC": "( Toplam )\n"
+      }
+    },
+    "DATE_RANGE": [
+      {
+        "id": 0,
+        "name": "Son 7 gün"
+      },
+      {
+        "id": 1,
+        "name": "Son 30 gün"
+      }
+    ]
+  }
+}

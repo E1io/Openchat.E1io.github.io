@@ -1,0 +1,32 @@
+{
+  "REGISTER": {
+    "TRY_WOOT": "Bir hesap oluştur",
+    "TITLE": "Kayıt ol",
+    "TERMS_ACCEPT": "Kaydolarak,  <a href=\"https://www.chatwoot.com/terms\"> T & C </a> ve <a href = \"https://www.chatwoot.com/privacy\"> Gizlilik politikası </a> kabul etmiş olursunuz.",
+    "ACCOUNT_NAME": {
+      "LABEL": "Hesap adı",
+      "PLACEHOLDER": "Şirketiniz",
+      "ERROR": "Hesap Adı çok kısa"
+    },
+    "EMAIL": {
+      "LABEL": "E-Posta",
+      "PLACEHOLDER": "adres@site.com",
+      "ERROR": "e-posta geçersiz"
+    },
+    "PASSWORD": {
+      "LABEL": "Parola",
+      "PLACEHOLDER": "Parola",
+      "ERROR": "Parola çok kısa"
+    },
+    "CONFIRM_PASSWORD": {
+      "LABEL": "Parolayı Onayla",
+      "PLACEHOLDER": "Parolayı Onayla",
+      "ERROR": "Parola eşleşmiyor"
+    },
+    "API": {
+      "SUCCESS_MESSAGE": "Kayıt başarılı",
+      "ERROR_MESSAGE": "Woot Sunucusuna bağlanılamadı, Lütfen daha sonra tekrar deneyin"
+    },
+    "SUBMIT": "Yolla"
+  }
+}
